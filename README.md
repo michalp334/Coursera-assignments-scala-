@@ -1,1 +1,1 @@
-# Coursera-assignments-scala-
+Functional Programming Principles in Scala assignments
